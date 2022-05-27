@@ -4,7 +4,7 @@
 
 ### [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) 
 
-| [Badges]() | [Github]()
+| [Badges](https://www.credly.com/users/hugo-soto.928474d5/badges) | [Github](https://github.com/hsotoparada/Data-Science-Professional-Certificate)
 
 - Course 1: What is Data Science? | [Certificate](https://coursera.org/verify/7FV78HUB77RY)
 
