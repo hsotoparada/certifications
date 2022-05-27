@@ -2,8 +2,7 @@
 
 ## Data Science | Machine Learning
 
-### [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
-| [Badges]() | [Github]()
+### [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) | [Badges]() | [Github]()
 
 - Course 1: What is Data Science? | [Certificate](https://coursera.org/verify/7FV78HUB77RY)
 
