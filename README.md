@@ -29,8 +29,8 @@
 
 ### [Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm#courses)
 
-| [Badges](https://www.credly.com/users/hugo-soto.928474d5/badges) 
 | [Github](https://github.com/hsotoparada/Advanced-Data-Science-Specialization)
+| [Badges](https://www.credly.com/users/hugo-soto.928474d5/badges) 
 
 - Course 1: Fundamentals of Scalable Data Science | [Certificate](https://coursera.org/verify/EJN5LP7XWRSU)
 
