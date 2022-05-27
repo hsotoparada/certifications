@@ -8,9 +8,9 @@
 
 - Course 2: Tools for Data Science | [Certificate](https://coursera.org/verify/RPXWQP4VVESU)
 
-- Course 3: Data Science Methodology | [Certificate]()
+- Course 3: Data Science Methodology | [Certificate](https://coursera.org/verify/RKSTXKHVPMXT)
 
-- Course 4: Python for Data Science, AI & Development | [Certificate]()
+- Course 4: Python for Data Science, AI & Development | [Certificate](https://coursera.org/verify/P63DCULJEHGF)
 
 - Course 5: Python Project for Data Science | [Certificate]()
 
