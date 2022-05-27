@@ -26,7 +26,21 @@
 
 ### [Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm#courses)
 
-### [PostgreSQL for Everybody Specialization](https://www.coursera.org/specializations/postgresql-for-everybody)
+- Course 1: Fundamentals of Scalable Data Science
+
+- Course 2: Advanced Machine Learning and Signal Processing
+
+- Course 3: Applied AI with DeepLearning
+
+### [PostgreSQL Specialization](https://www.coursera.org/specializations/postgresql-for-everybody)
+
+- Course 1: Database Design and Basic SQL in PostgreSQL
+
+- Course 2: Intermediate PostgreSQL
+
+- Course 3: JSON and Natural Language Processing in PostgreSQL
+
+- Course 4: Database Architecture, Scale, and NoSQL with Elasticsearch
 
 ### [MLOps specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 
