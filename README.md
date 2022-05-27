@@ -2,7 +2,7 @@
 
 ## Data Science | Machine Learning
 
-### [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) 
+### [Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) 
 
 | [Github](https://github.com/hsotoparada/Data-Science-Professional-Certificate)
 | [Badges](https://www.credly.com/users/hugo-soto.928474d5/badges) 
@@ -27,7 +27,7 @@
 
 - Course 10: Applied Data Science Capstone | [Certificate](https://coursera.org/verify/XU25N5F5PMCC)
 
-### [Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm#courses)
+### [Advanced Data Science Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm#courses)
 
 | [Github](https://github.com/hsotoparada/Advanced-Data-Science-Specialization)
 | [Badges](https://www.credly.com/users/hugo-soto.928474d5/badges) 
