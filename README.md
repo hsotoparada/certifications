@@ -2,9 +2,9 @@
 
 ## Data Science / Machine Learning
 
-### [IBM Data Science certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
+### [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 
-- Course 1: What is Data Science?
+- Course 1: What is Data Science? | [Certificate](https://www.coursera.org/account/accomplishments/verify/7FV78HUB77RY)
 
 - Course 2: Tools for Data Science
 
