@@ -26,21 +26,21 @@
 
 ### [Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm#courses)
 
-- Course 1: Fundamentals of Scalable Data Science | [Certificate]()
+- Course 1: Fundamentals of Scalable Data Science | [Certificate](https://coursera.org/verify/EJN5LP7XWRSU)
 
-- Course 2: Advanced Machine Learning and Signal Processing | [Certificate]()
+- Course 2: Advanced Machine Learning and Signal Processing | [Certificate](https://coursera.org/verify/W85K9NQ9UWX2)
 
-- Course 3: Applied AI with DeepLearning | [Certificate]()
+- Course 3: Applied AI with DeepLearning | [Certificate](https://coursera.org/verify/ENXTU7BNWMNW)
 
 ### [PostgreSQL Specialization](https://www.coursera.org/specializations/postgresql-for-everybody)
 
-- Course 1: Database Design and Basic SQL in PostgreSQL | [Certificate]()
+- Course 1: Database Design and Basic SQL in PostgreSQL | [Certificate](https://coursera.org/verify/MZKGDSX7TN4E)
 
-- Course 2: Intermediate PostgreSQL | [Certificate]()
+- Course 2: Intermediate PostgreSQL | [Certificate](https://coursera.org/verify/FH8WSQ46KPLG)
 
-- Course 3: JSON and Natural Language Processing in PostgreSQL | [Certificate]()
+- Course 3: JSON and Natural Language Processing in PostgreSQL | [Certificate](https://coursera.org/verify/TVJZU7VWDCVV)
 
-- Course 4: Database Architecture, Scale, and NoSQL with Elasticsearch | [Certificate]()
+- Course 4: Database Architecture, Scale, and NoSQL with Elasticsearch | [Certificate](https://coursera.org/verify/RBRAZY8P3DAZ)
 
 ### [MLOps specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 
