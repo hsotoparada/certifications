@@ -12,17 +12,17 @@
 
 - Course 4: Python for Data Science, AI & Development | [Certificate](https://coursera.org/verify/P63DCULJEHGF)
 
-- Course 5: Python Project for Data Science | [Certificate]()
+- Course 5: Python Project for Data Science | [Certificate](https://coursera.org/verify/K8FW8D2XTWAB)
 
-- Course 6: Databases and SQL for Data Science with Python | [Certificate]()
+- Course 6: Databases and SQL for Data Science with Python | [Certificate](https://coursera.org/verify/UZC9MUXXPSAL)
 
-- Course 7: Data Analysis with Python | [Certificate]()
+- Course 7: Data Analysis with Python | [Certificate](https://coursera.org/verify/WAJ25PJU42QA)
 
-- Course 8: Data Visualization with Python | [Certificate]()
+- Course 8: Data Visualization with Python | [Certificate](https://coursera.org/verify/M4BY2BS6JEUW)
 
-- Course 9: Machine Learning with Python | [Certificate]()
+- Course 9: Machine Learning with Python | [Certificate](https://coursera.org/verify/6AHFLZDMSHY5)
 
-- Course 10: Applied Data Science Capstone | [Certificate]()
+- Course 10: Applied Data Science Capstone | [Certificate](https://coursera.org/verify/XU25N5F5PMCC)
 
 ### [Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm#courses)
 
