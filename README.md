@@ -44,4 +44,4 @@
 
 ### [MLOps specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 
-- Course 1: Introduction to Machine Learning in Production. [certificate](https://coursera.org/verify/PARJFVVC4JY9)
+- Course 1: Introduction to Machine Learning in Production | [Certificate](https://coursera.org/verify/PARJFVVC4JY9)
