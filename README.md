@@ -40,6 +40,8 @@
 
 ### [PostgreSQL Specialization](https://www.coursera.org/specializations/postgresql-for-everybody)
 
+| [Github](https://github.com/hsotoparada/PostgreSQL-Specialization)
+
 - Course 1: Database Design and Basic SQL in PostgreSQL | [Certificate](https://coursera.org/verify/MZKGDSX7TN4E)
 
 - Course 2: Intermediate PostgreSQL | [Certificate](https://coursera.org/verify/FH8WSQ46KPLG)
