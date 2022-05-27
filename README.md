@@ -4,6 +4,10 @@
 
 ### [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 
+- Badges: 
+
+- Github: 
+
 - Course 1: What is Data Science? | [Certificate](https://coursera.org/verify/7FV78HUB77RY)
 
 - Course 2: Tools for Data Science | [Certificate](https://coursera.org/verify/RPXWQP4VVESU)
